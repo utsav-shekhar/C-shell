@@ -1,0 +1,6 @@
+proclore
+ls 
+cd ..warp ..
+warp ..
+peek
+warp ..
